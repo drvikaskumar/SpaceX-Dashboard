@@ -15,3 +15,11 @@ This project is an interactive dashboard built using Plotly Dash inside a Jupyte
 2. Make sure you have the required Python libraries installed:
    ```bash
    pip install dash pandas plotly
+
+## Running the Dash App Script
+
+You can also run the interactive dashboard as a standalone Python script:
+
+```bash
+pip install dash pandas plotly
+python spacex_dashboard.py
